@@ -15,6 +15,10 @@ Settings, better pomodoro and more soon!
 
 # Important 
 on Linux u need sudo to use DELETE and ENTER to delete and add task to todo list!
+<br>
+Notifications in sudo mode may not work!
+<br>
+I will patch this soon.
 
 # Changelog
 Ver 0.1
