@@ -10,5 +10,6 @@ Settings, better pomodoro and more soon!
 # Changelog
 Ver 0.1
 First release
+<br>
 Ver 0.2 scheduled for January
 
