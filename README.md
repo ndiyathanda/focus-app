@@ -3,7 +3,6 @@ Pomodoro timer and todo list
 
 # Screenshots
 ![](Screenshot_99.png)
-<br>
 ![](Screenshot_100.png)
 <br>
 ![](Screenshot_101.png)
