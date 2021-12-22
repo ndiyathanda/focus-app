@@ -13,6 +13,9 @@ This software may be buggy!
 # Plans for the future
 Settings, better pomodoro and more soon!
 
+# Important 
+on Linux u need sudo to use DELETE and ENTER to delete and add task to todo list!
+
 # Changelog
 Ver 0.1
 First release
