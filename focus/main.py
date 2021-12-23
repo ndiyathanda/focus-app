@@ -303,7 +303,7 @@ class UI:
                 n=1
             if t == 0 and self.Enable:
                 if n==1:
-                    s.add(t4, 0)
+                    s.add(t4, 0, 0)
                     n=0
                 try:
                     notify2.init("Focus App")
@@ -329,7 +329,7 @@ class UI:
                     time.sleep(1)
                     t2 -= 1
                     if t2 == 1:
-                        s.add(0, t5)
+                        s.add(0, t5, 0)
             playsound('ding.mp3')
             try:
                 notify2.init("Focus App")
