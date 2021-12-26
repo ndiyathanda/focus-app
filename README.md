@@ -19,6 +19,8 @@ on Linux u need sudo to use DELETE and ENTER to delete and add task to todo list
 Notifications in sudo mode may not work!
 <br>
 I will patch this soon.
+<br>
+Note: On Windows everything works well
 
 # Changelog
 Ver 0.1
