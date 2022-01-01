@@ -26,5 +26,5 @@ Note: On Windows everything works well
 Ver 0.1
 First release
 <br>
-Ver 0.2 scheduled for January
+Ver 0.2 scheduled for never probably
 
