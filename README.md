@@ -22,6 +22,18 @@ I will patch this soon.
 <br>
 Note: On Windows everything works well
 
+# Requirements
+tkinter
+<br>
+time
+<br>
+keyboard
+<br>
+playsound
+<br>
+for windows: win10toast
+<br>
+
 # Changelog
 Ver 0.1
 First release
