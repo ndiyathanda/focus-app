@@ -10,20 +10,11 @@ Pomodoro timer and todo list
 <br>
 ![](s4.png)
 
-# Early Acces
+# Early Access
 This software may be buggy!
 
-# Plans for the future
-Settings, better pomodoro and more soon!
-
-# Important 
-on Linux u need sudo to use DELETE and ENTER to delete and add task to todo list!
-<br>
-Notifications in sudo mode may not work!
-<br>
-I will patch this soon.
-<br>
-Note: On Windows everything works well
+# Bugs
+On ver0.2 notifications sometimes doesn't work, but very rarely.
 
 # Requirements
 tkinter
@@ -32,7 +23,7 @@ time
 <br>
 keyboard
 <br>
-playsound
+winsound/playsound
 <br>
 for windows: win10toast
 <br>
