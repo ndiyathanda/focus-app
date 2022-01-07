@@ -2,10 +2,13 @@
 Pomodoro timer and todo list
 
 # Screenshots
-![](Screenshot_99.png)
-![](Screenshot_100.png)
+![](s1.png)
 <br>
-![](Screenshot_101.png)
+![](s2.png)
+<br>
+![](s3.png)
+<br>
+![](s4.png)
 
 # Early Acces
 This software may be buggy!
@@ -38,5 +41,9 @@ for windows: win10toast
 Ver 0.1
 First release
 <br>
-Ver 0.2 scheduled for never probably
+Ver 0.2 
+<br>
+- Added settings with themes and pomodoro sessions
+- visual improvements
+- bug fixes
 
