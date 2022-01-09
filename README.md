@@ -39,5 +39,6 @@ Ver 0.2
 - bug fixes
 <br>
 Ver 0.3
+<br>
 - Added pause feature 
 - Small bug fixes and gui improvements
