@@ -35,7 +35,9 @@ First release
 Ver 0.2 
 <br>
 - Added settings with themes and pomodoro sessions
+<br>
 - visual improvements
+<br>
 - bug fixes
 <br>
 Ver 0.2 
