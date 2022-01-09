@@ -37,4 +37,6 @@ Ver 0.2
 - Added settings with themes and pomodoro sessions
 - visual improvements
 - bug fixes
-
+Ver 0.3
+- Added pause feature 
+- Small bug fixes and gui improvements
