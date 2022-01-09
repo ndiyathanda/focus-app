@@ -41,5 +41,7 @@ Ver 0.2
 Ver 0.2 
 <br>
 - Added pause feature
+<br>
 - ui improvements and small bug fixes
+<br>
 - fixed sounds
