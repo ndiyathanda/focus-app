@@ -34,13 +34,14 @@ First release
 <br>
 Ver 0.2 
 <br>
+<br>
 -Added settings with themes and pomodoro sessions
 <br>
 -visual improvements
 <br>
 -bug fixes
 <br>
-Ver 0.2 
+Ver 0.3
 <br>
 -Added pause feature
 <br>
