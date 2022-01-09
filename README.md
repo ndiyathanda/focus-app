@@ -23,7 +23,7 @@ time
 <br>
 keyboard
 <br>
-winsound/playsound
+playsound
 <br>
 for windows: win10toast
 <br>
