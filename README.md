@@ -34,16 +34,16 @@ First release
 <br>
 Ver 0.2 
 <br>
-- Added settings with themes and pomodoro sessions
+-Added settings with themes and pomodoro sessions
 <br>
-- visual improvements
+-visual improvements
 <br>
-- bug fixes
+-bug fixes
 <br>
 Ver 0.2 
 <br>
-- Added pause feature
+-Added pause feature
 <br>
-- ui improvements and small bug fixes
+-ui improvements and small bug fixes
 <br>
-- fixed sounds
+-fixed sounds
