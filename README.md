@@ -26,6 +26,7 @@ keyboard
 playsound
 <br>
 for windows: win10toast
+<br>
 for linux: py-notifier
 <br>
 
