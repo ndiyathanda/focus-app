@@ -14,7 +14,7 @@ Pomodoro timer and todo list
 This software may be buggy!
 
 # Bugs
-On ver0.2 notifications sometimes doesn't work, but very rarely. Its not bug at all but on Linux you need sudo mode to use ENTER and DELETE in to do list but also notification and sounds doesnt work :(
+On ver0.2 notifications sometimes doesn't work, but very rarely. Its not bug at all but on Linux you need root mode to use ENTER and DELETE in to do list but also notification and sounds in root doesnt work :(
 
 # Requirements
 tkinter
